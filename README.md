@@ -3,7 +3,7 @@
 ##Project Summary:
 This project involved a comprehensive analysis of the provided Call Centre Trends dashboard. The primary objective was to identify key performance indicators (KPIs), assess the overall health of the call centre operations, and provide data-driven recommendations to improve efficiency and customer satisfaction. The analysis revealed a strong call resolution rate but highlighted critical areas for improvement, specifically a high call abandonment rate and moderate customer satisfaction.
 
-![Dashboard]()
+![Dashboard](https://github.com/i-ayush-7/Call-Centre-Data-Analysis/blob/main/Call%20Centre%20Dashboard.png)
 
 ## Call Centre Data Analysis: Project Report
 ### 1. Executive Summary
