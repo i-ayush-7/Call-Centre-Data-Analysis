@@ -31,7 +31,7 @@ A detailed breakdown of agent performance highlights individual contributions:
 3. Satisfaction Levels: The "Satisfaction Levels" chart provides a distribution of customer satisfaction scores. The largest categories are "Good" and "Excellent," which is positive. However, a noticeable number of customers are "Not Satisfied" or "Not Served." The "Not Served" category likely corresponds to the abandoned calls.
 
 ### Findings and Recommendations:
-#### Findings
+#### Findings:
 1. The call centre demonstrates a high call resolution rate.
 2. Customer satisfaction, while leaning towards positive sentiment, has significant room for improvement, particularly with the "Not Satisfied" segment.
 3. The high call abandonment rate is a critical issue that requires immediate attention.
